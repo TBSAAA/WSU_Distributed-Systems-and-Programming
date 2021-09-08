@@ -1,0 +1,5000 @@
+length: 1 , width: 1 , height: 1
+reall surface: 6 , reall volume: 1
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 1 , width: 1 , height: 2
+reall surface: 10 , reall volume: 2
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 1 , width: 1 , height: 3
+reall surface: 14 , reall volume: 3
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 1 , width: 1 , height: 4
+reall surface: 18 , reall volume: 4
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 1 , height: 5
+reall surface: 22 , reall volume: 5
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 1 , height: 6
+reall surface: 26 , reall volume: 6
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 1 , height: 7
+reall surface: 30 , reall volume: 7
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 1 , height: 8
+reall surface: 34 , reall volume: 8
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 1 , height: 9
+reall surface: 38 , reall volume: 9
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 1 , height: 10
+reall surface: 42 , reall volume: 10
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 2 , height: 1
+reall surface: 10 , reall volume: 2
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 1 , width: 2 , height: 2
+reall surface: 16 , reall volume: 4
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 1 , width: 2 , height: 3
+reall surface: 22 , reall volume: 6
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 1 , width: 2 , height: 4
+reall surface: 28 , reall volume: 8
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 2 , height: 5
+reall surface: 34 , reall volume: 10
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 2 , height: 6
+reall surface: 40 , reall volume: 12
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 2 , height: 7
+reall surface: 46 , reall volume: 14
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 2 , height: 8
+reall surface: 52 , reall volume: 16
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 2 , height: 9
+reall surface: 58 , reall volume: 18
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 2 , height: 10
+reall surface: 64 , reall volume: 20
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 3 , height: 1
+reall surface: 14 , reall volume: 3
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 1 , width: 3 , height: 2
+reall surface: 22 , reall volume: 6
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 1 , width: 3 , height: 3
+reall surface: 30 , reall volume: 9
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 1 , width: 3 , height: 4
+reall surface: 38 , reall volume: 12
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 3 , height: 5
+reall surface: 46 , reall volume: 15
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 3 , height: 6
+reall surface: 54 , reall volume: 18
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 3 , height: 7
+reall surface: 62 , reall volume: 21
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 3 , height: 8
+reall surface: 70 , reall volume: 24
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 3 , height: 9
+reall surface: 78 , reall volume: 27
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 3 , height: 10
+reall surface: 86 , reall volume: 30
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 4 , height: 1
+reall surface: 18 , reall volume: 4
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 4 , height: 2
+reall surface: 28 , reall volume: 8
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 4 , height: 3
+reall surface: 38 , reall volume: 12
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 4 , height: 4
+reall surface: 48 , reall volume: 16
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 4 , height: 5
+reall surface: 58 , reall volume: 20
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 4 , height: 6
+reall surface: 68 , reall volume: 24
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 4 , height: 7
+reall surface: 78 , reall volume: 28
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 4 , height: 8
+reall surface: 88 , reall volume: 32
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 4 , height: 9
+reall surface: 98 , reall volume: 36
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 4 , height: 10
+reall surface: 108 , reall volume: 40
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 1 , width: 5 , height: 1
+reall surface: 22 , reall volume: 5
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 5 , height: 2
+reall surface: 34 , reall volume: 10
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 5 , height: 3
+reall surface: 46 , reall volume: 15
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 5 , height: 4
+reall surface: 58 , reall volume: 20
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 5 , height: 5
+reall surface: 70 , reall volume: 25
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 5 , height: 6
+reall surface: 82 , reall volume: 30
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 5 , height: 7
+reall surface: 94 , reall volume: 35
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 5 , height: 8
+reall surface: 106 , reall volume: 40
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 5 , height: 9
+reall surface: 118 , reall volume: 45
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 5 , height: 10
+reall surface: 130 , reall volume: 50
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 1 , width: 6 , height: 1
+reall surface: 26 , reall volume: 6
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 6 , height: 2
+reall surface: 40 , reall volume: 12
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 6 , height: 3
+reall surface: 54 , reall volume: 18
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 1 , width: 6 , height: 4
+reall surface: 68 , reall volume: 24
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 6 , height: 5
+reall surface: 82 , reall volume: 30
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 6 , height: 6
+reall surface: 96 , reall volume: 36
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 6 , height: 7
+reall surface: 110 , reall volume: 42
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 6 , height: 8
+reall surface: 124 , reall volume: 48
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 6 , height: 9
+reall surface: 138 , reall volume: 54
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 6 , height: 10
+reall surface: 152 , reall volume: 60
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 1 , width: 7 , height: 1
+reall surface: 30 , reall volume: 7
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 7 , height: 2
+reall surface: 46 , reall volume: 14
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 7 , height: 3
+reall surface: 62 , reall volume: 21
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 7 , height: 4
+reall surface: 78 , reall volume: 28
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 7 , height: 5
+reall surface: 94 , reall volume: 35
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 7 , height: 6
+reall surface: 110 , reall volume: 42
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 7 , height: 7
+reall surface: 126 , reall volume: 49
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 1 , width: 7 , height: 8
+reall surface: 142 , reall volume: 56
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 1 , width: 7 , height: 9
+reall surface: 158 , reall volume: 63
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 1 , width: 7 , height: 10
+reall surface: 174 , reall volume: 70
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 1 , width: 8 , height: 1
+reall surface: 34 , reall volume: 8
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 8 , height: 2
+reall surface: 52 , reall volume: 16
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 8 , height: 3
+reall surface: 70 , reall volume: 24
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 8 , height: 4
+reall surface: 88 , reall volume: 32
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 8 , height: 5
+reall surface: 106 , reall volume: 40
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 8 , height: 6
+reall surface: 124 , reall volume: 48
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 8 , height: 7
+reall surface: 142 , reall volume: 56
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 1 , width: 8 , height: 8
+reall surface: 160 , reall volume: 64
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 1 , width: 8 , height: 9
+reall surface: 178 , reall volume: 72
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 1 , width: 8 , height: 10
+reall surface: 196 , reall volume: 80
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 1 , width: 9 , height: 1
+reall surface: 38 , reall volume: 9
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 9 , height: 2
+reall surface: 58 , reall volume: 18
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 9 , height: 3
+reall surface: 78 , reall volume: 27
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 1 , width: 9 , height: 4
+reall surface: 98 , reall volume: 36
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 9 , height: 5
+reall surface: 118 , reall volume: 45
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 9 , height: 6
+reall surface: 138 , reall volume: 54
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 1 , width: 9 , height: 7
+reall surface: 158 , reall volume: 63
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 1 , width: 9 , height: 8
+reall surface: 178 , reall volume: 72
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 1 , width: 9 , height: 9
+reall surface: 198 , reall volume: 81
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 1 , width: 9 , height: 10
+reall surface: 218 , reall volume: 90
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 1 , width: 10 , height: 1
+reall surface: 42 , reall volume: 10
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 10 , height: 2
+reall surface: 64 , reall volume: 20
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 10 , height: 3
+reall surface: 86 , reall volume: 30
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 1 , width: 10 , height: 4
+reall surface: 108 , reall volume: 40
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 1 , width: 10 , height: 5
+reall surface: 130 , reall volume: 50
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 1 , width: 10 , height: 6
+reall surface: 152 , reall volume: 60
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 1 , width: 10 , height: 7
+reall surface: 174 , reall volume: 70
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 1 , width: 10 , height: 8
+reall surface: 196 , reall volume: 80
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 1 , width: 10 , height: 9
+reall surface: 218 , reall volume: 90
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 1 , width: 10 , height: 10
+reall surface: 240 , reall volume: 100
+Has a surface area of: 432.00
+Has Volume of: 432.00
+ 
+length: 2 , width: 1 , height: 1
+reall surface: 10 , reall volume: 2
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 2 , width: 1 , height: 2
+reall surface: 16 , reall volume: 4
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 2 , width: 1 , height: 3
+reall surface: 22 , reall volume: 6
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 2 , width: 1 , height: 4
+reall surface: 28 , reall volume: 8
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 1 , height: 5
+reall surface: 34 , reall volume: 10
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 1 , height: 6
+reall surface: 40 , reall volume: 12
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 1 , height: 7
+reall surface: 46 , reall volume: 14
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 1 , height: 8
+reall surface: 52 , reall volume: 16
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 1 , height: 9
+reall surface: 58 , reall volume: 18
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 1 , height: 10
+reall surface: 64 , reall volume: 20
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 2 , height: 1
+reall surface: 16 , reall volume: 4
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 2 , width: 2 , height: 2
+reall surface: 24 , reall volume: 8
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 2 , width: 2 , height: 3
+reall surface: 32 , reall volume: 12
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 2 , width: 2 , height: 4
+reall surface: 40 , reall volume: 16
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 2 , height: 5
+reall surface: 48 , reall volume: 20
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 2 , height: 6
+reall surface: 56 , reall volume: 24
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 2 , height: 7
+reall surface: 64 , reall volume: 28
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 2 , height: 8
+reall surface: 72 , reall volume: 32
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 2 , height: 9
+reall surface: 80 , reall volume: 36
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 2 , height: 10
+reall surface: 88 , reall volume: 40
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 3 , height: 1
+reall surface: 22 , reall volume: 6
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 2 , width: 3 , height: 2
+reall surface: 32 , reall volume: 12
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 2 , width: 3 , height: 3
+reall surface: 42 , reall volume: 18
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 2 , width: 3 , height: 4
+reall surface: 52 , reall volume: 24
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 3 , height: 5
+reall surface: 62 , reall volume: 30
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 3 , height: 6
+reall surface: 72 , reall volume: 36
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 3 , height: 7
+reall surface: 82 , reall volume: 42
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 3 , height: 8
+reall surface: 92 , reall volume: 48
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 3 , height: 9
+reall surface: 102 , reall volume: 54
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 3 , height: 10
+reall surface: 112 , reall volume: 60
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 4 , height: 1
+reall surface: 28 , reall volume: 8
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 4 , height: 2
+reall surface: 40 , reall volume: 16
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 4 , height: 3
+reall surface: 52 , reall volume: 24
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 4 , height: 4
+reall surface: 64 , reall volume: 32
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 4 , height: 5
+reall surface: 76 , reall volume: 40
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 4 , height: 6
+reall surface: 88 , reall volume: 48
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 4 , height: 7
+reall surface: 100 , reall volume: 56
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 4 , height: 8
+reall surface: 112 , reall volume: 64
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 4 , height: 9
+reall surface: 124 , reall volume: 72
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 4 , height: 10
+reall surface: 136 , reall volume: 80
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 2 , width: 5 , height: 1
+reall surface: 34 , reall volume: 10
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 5 , height: 2
+reall surface: 48 , reall volume: 20
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 5 , height: 3
+reall surface: 62 , reall volume: 30
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 5 , height: 4
+reall surface: 76 , reall volume: 40
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 5 , height: 5
+reall surface: 90 , reall volume: 50
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 5 , height: 6
+reall surface: 104 , reall volume: 60
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 5 , height: 7
+reall surface: 118 , reall volume: 70
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 5 , height: 8
+reall surface: 132 , reall volume: 80
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 5 , height: 9
+reall surface: 146 , reall volume: 90
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 5 , height: 10
+reall surface: 160 , reall volume: 100
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 2 , width: 6 , height: 1
+reall surface: 40 , reall volume: 12
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 6 , height: 2
+reall surface: 56 , reall volume: 24
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 6 , height: 3
+reall surface: 72 , reall volume: 36
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 2 , width: 6 , height: 4
+reall surface: 88 , reall volume: 48
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 6 , height: 5
+reall surface: 104 , reall volume: 60
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 6 , height: 6
+reall surface: 120 , reall volume: 72
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 6 , height: 7
+reall surface: 136 , reall volume: 84
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 6 , height: 8
+reall surface: 152 , reall volume: 96
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 6 , height: 9
+reall surface: 168 , reall volume: 108
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 6 , height: 10
+reall surface: 184 , reall volume: 120
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 2 , width: 7 , height: 1
+reall surface: 46 , reall volume: 14
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 7 , height: 2
+reall surface: 64 , reall volume: 28
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 7 , height: 3
+reall surface: 82 , reall volume: 42
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 7 , height: 4
+reall surface: 100 , reall volume: 56
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 7 , height: 5
+reall surface: 118 , reall volume: 70
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 7 , height: 6
+reall surface: 136 , reall volume: 84
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 7 , height: 7
+reall surface: 154 , reall volume: 98
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 2 , width: 7 , height: 8
+reall surface: 172 , reall volume: 112
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 2 , width: 7 , height: 9
+reall surface: 190 , reall volume: 126
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 2 , width: 7 , height: 10
+reall surface: 208 , reall volume: 140
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 2 , width: 8 , height: 1
+reall surface: 52 , reall volume: 16
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 8 , height: 2
+reall surface: 72 , reall volume: 32
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 8 , height: 3
+reall surface: 92 , reall volume: 48
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 8 , height: 4
+reall surface: 112 , reall volume: 64
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 8 , height: 5
+reall surface: 132 , reall volume: 80
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 8 , height: 6
+reall surface: 152 , reall volume: 96
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 8 , height: 7
+reall surface: 172 , reall volume: 112
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 2 , width: 8 , height: 8
+reall surface: 192 , reall volume: 128
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 2 , width: 8 , height: 9
+reall surface: 212 , reall volume: 144
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 2 , width: 8 , height: 10
+reall surface: 232 , reall volume: 160
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 2 , width: 9 , height: 1
+reall surface: 58 , reall volume: 18
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 9 , height: 2
+reall surface: 80 , reall volume: 36
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 9 , height: 3
+reall surface: 102 , reall volume: 54
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 2 , width: 9 , height: 4
+reall surface: 124 , reall volume: 72
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 9 , height: 5
+reall surface: 146 , reall volume: 90
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 9 , height: 6
+reall surface: 168 , reall volume: 108
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 2 , width: 9 , height: 7
+reall surface: 190 , reall volume: 126
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 2 , width: 9 , height: 8
+reall surface: 212 , reall volume: 144
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 2 , width: 9 , height: 9
+reall surface: 234 , reall volume: 162
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 2 , width: 9 , height: 10
+reall surface: 256 , reall volume: 180
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 2 , width: 10 , height: 1
+reall surface: 64 , reall volume: 20
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 10 , height: 2
+reall surface: 88 , reall volume: 40
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 10 , height: 3
+reall surface: 112 , reall volume: 60
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 2 , width: 10 , height: 4
+reall surface: 136 , reall volume: 80
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 2 , width: 10 , height: 5
+reall surface: 160 , reall volume: 100
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 2 , width: 10 , height: 6
+reall surface: 184 , reall volume: 120
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 2 , width: 10 , height: 7
+reall surface: 208 , reall volume: 140
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 2 , width: 10 , height: 8
+reall surface: 232 , reall volume: 160
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 2 , width: 10 , height: 9
+reall surface: 256 , reall volume: 180
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 2 , width: 10 , height: 10
+reall surface: 280 , reall volume: 200
+Has a surface area of: 432.00
+Has Volume of: 432.00
+ 
+length: 3 , width: 1 , height: 1
+reall surface: 14 , reall volume: 3
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 3 , width: 1 , height: 2
+reall surface: 22 , reall volume: 6
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 3 , width: 1 , height: 3
+reall surface: 30 , reall volume: 9
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 3 , width: 1 , height: 4
+reall surface: 38 , reall volume: 12
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 1 , height: 5
+reall surface: 46 , reall volume: 15
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 1 , height: 6
+reall surface: 54 , reall volume: 18
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 1 , height: 7
+reall surface: 62 , reall volume: 21
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 1 , height: 8
+reall surface: 70 , reall volume: 24
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 1 , height: 9
+reall surface: 78 , reall volume: 27
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 1 , height: 10
+reall surface: 86 , reall volume: 30
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 2 , height: 1
+reall surface: 22 , reall volume: 6
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 3 , width: 2 , height: 2
+reall surface: 32 , reall volume: 12
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 3 , width: 2 , height: 3
+reall surface: 42 , reall volume: 18
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 3 , width: 2 , height: 4
+reall surface: 52 , reall volume: 24
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 2 , height: 5
+reall surface: 62 , reall volume: 30
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 2 , height: 6
+reall surface: 72 , reall volume: 36
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 2 , height: 7
+reall surface: 82 , reall volume: 42
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 2 , height: 8
+reall surface: 92 , reall volume: 48
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 2 , height: 9
+reall surface: 102 , reall volume: 54
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 2 , height: 10
+reall surface: 112 , reall volume: 60
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 3 , height: 1
+reall surface: 30 , reall volume: 9
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 3 , width: 3 , height: 2
+reall surface: 42 , reall volume: 18
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 3 , width: 3 , height: 3
+reall surface: 54 , reall volume: 27
+Has a surface area of: 54.00
+Has Volume of: 27.00
+ 
+length: 3 , width: 3 , height: 4
+reall surface: 66 , reall volume: 36
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 3 , height: 5
+reall surface: 78 , reall volume: 45
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 3 , height: 6
+reall surface: 90 , reall volume: 54
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 3 , height: 7
+reall surface: 102 , reall volume: 63
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 3 , height: 8
+reall surface: 114 , reall volume: 72
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 3 , height: 9
+reall surface: 126 , reall volume: 81
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 3 , height: 10
+reall surface: 138 , reall volume: 90
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 4 , height: 1
+reall surface: 38 , reall volume: 12
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 4 , height: 2
+reall surface: 52 , reall volume: 24
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 4 , height: 3
+reall surface: 66 , reall volume: 36
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 4 , height: 4
+reall surface: 80 , reall volume: 48
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 4 , height: 5
+reall surface: 94 , reall volume: 60
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 4 , height: 6
+reall surface: 108 , reall volume: 72
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 4 , height: 7
+reall surface: 122 , reall volume: 84
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 4 , height: 8
+reall surface: 136 , reall volume: 96
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 4 , height: 9
+reall surface: 150 , reall volume: 108
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 4 , height: 10
+reall surface: 164 , reall volume: 120
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 3 , width: 5 , height: 1
+reall surface: 46 , reall volume: 15
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 5 , height: 2
+reall surface: 62 , reall volume: 30
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 5 , height: 3
+reall surface: 78 , reall volume: 45
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 5 , height: 4
+reall surface: 94 , reall volume: 60
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 5 , height: 5
+reall surface: 110 , reall volume: 75
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 5 , height: 6
+reall surface: 126 , reall volume: 90
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 5 , height: 7
+reall surface: 142 , reall volume: 105
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 5 , height: 8
+reall surface: 158 , reall volume: 120
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 5 , height: 9
+reall surface: 174 , reall volume: 135
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 5 , height: 10
+reall surface: 190 , reall volume: 150
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 3 , width: 6 , height: 1
+reall surface: 54 , reall volume: 18
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 6 , height: 2
+reall surface: 72 , reall volume: 36
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 6 , height: 3
+reall surface: 90 , reall volume: 54
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 3 , width: 6 , height: 4
+reall surface: 108 , reall volume: 72
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 6 , height: 5
+reall surface: 126 , reall volume: 90
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 6 , height: 6
+reall surface: 144 , reall volume: 108
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 6 , height: 7
+reall surface: 162 , reall volume: 126
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 6 , height: 8
+reall surface: 180 , reall volume: 144
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 6 , height: 9
+reall surface: 198 , reall volume: 162
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 6 , height: 10
+reall surface: 216 , reall volume: 180
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 3 , width: 7 , height: 1
+reall surface: 62 , reall volume: 21
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 7 , height: 2
+reall surface: 82 , reall volume: 42
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 7 , height: 3
+reall surface: 102 , reall volume: 63
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 7 , height: 4
+reall surface: 122 , reall volume: 84
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 7 , height: 5
+reall surface: 142 , reall volume: 105
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 7 , height: 6
+reall surface: 162 , reall volume: 126
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 7 , height: 7
+reall surface: 182 , reall volume: 147
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 3 , width: 7 , height: 8
+reall surface: 202 , reall volume: 168
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 3 , width: 7 , height: 9
+reall surface: 222 , reall volume: 189
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 3 , width: 7 , height: 10
+reall surface: 242 , reall volume: 210
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 3 , width: 8 , height: 1
+reall surface: 70 , reall volume: 24
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 8 , height: 2
+reall surface: 92 , reall volume: 48
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 8 , height: 3
+reall surface: 114 , reall volume: 72
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 8 , height: 4
+reall surface: 136 , reall volume: 96
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 8 , height: 5
+reall surface: 158 , reall volume: 120
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 8 , height: 6
+reall surface: 180 , reall volume: 144
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 8 , height: 7
+reall surface: 202 , reall volume: 168
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 3 , width: 8 , height: 8
+reall surface: 224 , reall volume: 192
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 3 , width: 8 , height: 9
+reall surface: 246 , reall volume: 216
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 3 , width: 8 , height: 10
+reall surface: 268 , reall volume: 240
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 3 , width: 9 , height: 1
+reall surface: 78 , reall volume: 27
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 9 , height: 2
+reall surface: 102 , reall volume: 54
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 9 , height: 3
+reall surface: 126 , reall volume: 81
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 3 , width: 9 , height: 4
+reall surface: 150 , reall volume: 108
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 9 , height: 5
+reall surface: 174 , reall volume: 135
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 9 , height: 6
+reall surface: 198 , reall volume: 162
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 3 , width: 9 , height: 7
+reall surface: 222 , reall volume: 189
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 3 , width: 9 , height: 8
+reall surface: 246 , reall volume: 216
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 3 , width: 9 , height: 9
+reall surface: 270 , reall volume: 243
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 3 , width: 9 , height: 10
+reall surface: 294 , reall volume: 270
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 3 , width: 10 , height: 1
+reall surface: 86 , reall volume: 30
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 10 , height: 2
+reall surface: 112 , reall volume: 60
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 10 , height: 3
+reall surface: 138 , reall volume: 90
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 3 , width: 10 , height: 4
+reall surface: 164 , reall volume: 120
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 3 , width: 10 , height: 5
+reall surface: 190 , reall volume: 150
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 3 , width: 10 , height: 6
+reall surface: 216 , reall volume: 180
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 3 , width: 10 , height: 7
+reall surface: 242 , reall volume: 210
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 3 , width: 10 , height: 8
+reall surface: 268 , reall volume: 240
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 3 , width: 10 , height: 9
+reall surface: 294 , reall volume: 270
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 3 , width: 10 , height: 10
+reall surface: 320 , reall volume: 300
+Has a surface area of: 432.00
+Has Volume of: 432.00
+ 
+length: 4 , width: 1 , height: 1
+reall surface: 18 , reall volume: 4
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 4 , width: 1 , height: 2
+reall surface: 28 , reall volume: 8
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 4 , width: 1 , height: 3
+reall surface: 38 , reall volume: 12
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 4 , width: 1 , height: 4
+reall surface: 48 , reall volume: 16
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 1 , height: 5
+reall surface: 58 , reall volume: 20
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 1 , height: 6
+reall surface: 68 , reall volume: 24
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 1 , height: 7
+reall surface: 78 , reall volume: 28
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 1 , height: 8
+reall surface: 88 , reall volume: 32
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 1 , height: 9
+reall surface: 98 , reall volume: 36
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 1 , height: 10
+reall surface: 108 , reall volume: 40
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 2 , height: 1
+reall surface: 28 , reall volume: 8
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 4 , width: 2 , height: 2
+reall surface: 40 , reall volume: 16
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 4 , width: 2 , height: 3
+reall surface: 52 , reall volume: 24
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 4 , width: 2 , height: 4
+reall surface: 64 , reall volume: 32
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 2 , height: 5
+reall surface: 76 , reall volume: 40
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 2 , height: 6
+reall surface: 88 , reall volume: 48
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 2 , height: 7
+reall surface: 100 , reall volume: 56
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 2 , height: 8
+reall surface: 112 , reall volume: 64
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 2 , height: 9
+reall surface: 124 , reall volume: 72
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 2 , height: 10
+reall surface: 136 , reall volume: 80
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 3 , height: 1
+reall surface: 38 , reall volume: 12
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 4 , width: 3 , height: 2
+reall surface: 52 , reall volume: 24
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 4 , width: 3 , height: 3
+reall surface: 66 , reall volume: 36
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 4 , width: 3 , height: 4
+reall surface: 80 , reall volume: 48
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 3 , height: 5
+reall surface: 94 , reall volume: 60
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 3 , height: 6
+reall surface: 108 , reall volume: 72
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 3 , height: 7
+reall surface: 122 , reall volume: 84
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 3 , height: 8
+reall surface: 136 , reall volume: 96
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 3 , height: 9
+reall surface: 150 , reall volume: 108
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 3 , height: 10
+reall surface: 164 , reall volume: 120
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 4 , height: 1
+reall surface: 48 , reall volume: 16
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 4 , height: 2
+reall surface: 64 , reall volume: 32
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 4 , height: 3
+reall surface: 80 , reall volume: 48
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 4 , height: 4
+reall surface: 96 , reall volume: 64
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 4 , height: 5
+reall surface: 112 , reall volume: 80
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 4 , height: 6
+reall surface: 128 , reall volume: 96
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 4 , height: 7
+reall surface: 144 , reall volume: 112
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 4 , height: 8
+reall surface: 160 , reall volume: 128
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 4 , height: 9
+reall surface: 176 , reall volume: 144
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 4 , height: 10
+reall surface: 192 , reall volume: 160
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 4 , width: 5 , height: 1
+reall surface: 58 , reall volume: 20
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 5 , height: 2
+reall surface: 76 , reall volume: 40
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 5 , height: 3
+reall surface: 94 , reall volume: 60
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 5 , height: 4
+reall surface: 112 , reall volume: 80
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 5 , height: 5
+reall surface: 130 , reall volume: 100
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 5 , height: 6
+reall surface: 148 , reall volume: 120
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 5 , height: 7
+reall surface: 166 , reall volume: 140
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 5 , height: 8
+reall surface: 184 , reall volume: 160
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 5 , height: 9
+reall surface: 202 , reall volume: 180
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 5 , height: 10
+reall surface: 220 , reall volume: 200
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 4 , width: 6 , height: 1
+reall surface: 68 , reall volume: 24
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 6 , height: 2
+reall surface: 88 , reall volume: 48
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 6 , height: 3
+reall surface: 108 , reall volume: 72
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 4 , width: 6 , height: 4
+reall surface: 128 , reall volume: 96
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 6 , height: 5
+reall surface: 148 , reall volume: 120
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 6 , height: 6
+reall surface: 168 , reall volume: 144
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 6 , height: 7
+reall surface: 188 , reall volume: 168
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 6 , height: 8
+reall surface: 208 , reall volume: 192
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 6 , height: 9
+reall surface: 228 , reall volume: 216
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 6 , height: 10
+reall surface: 248 , reall volume: 240
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 4 , width: 7 , height: 1
+reall surface: 78 , reall volume: 28
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 7 , height: 2
+reall surface: 100 , reall volume: 56
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 7 , height: 3
+reall surface: 122 , reall volume: 84
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 7 , height: 4
+reall surface: 144 , reall volume: 112
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 7 , height: 5
+reall surface: 166 , reall volume: 140
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 7 , height: 6
+reall surface: 188 , reall volume: 168
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 7 , height: 7
+reall surface: 210 , reall volume: 196
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 4 , width: 7 , height: 8
+reall surface: 232 , reall volume: 224
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 4 , width: 7 , height: 9
+reall surface: 254 , reall volume: 252
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 4 , width: 7 , height: 10
+reall surface: 276 , reall volume: 280
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 4 , width: 8 , height: 1
+reall surface: 88 , reall volume: 32
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 8 , height: 2
+reall surface: 112 , reall volume: 64
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 8 , height: 3
+reall surface: 136 , reall volume: 96
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 8 , height: 4
+reall surface: 160 , reall volume: 128
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 8 , height: 5
+reall surface: 184 , reall volume: 160
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 8 , height: 6
+reall surface: 208 , reall volume: 192
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 8 , height: 7
+reall surface: 232 , reall volume: 224
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 4 , width: 8 , height: 8
+reall surface: 256 , reall volume: 256
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 4 , width: 8 , height: 9
+reall surface: 280 , reall volume: 288
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 4 , width: 8 , height: 10
+reall surface: 304 , reall volume: 320
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 4 , width: 9 , height: 1
+reall surface: 98 , reall volume: 36
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 9 , height: 2
+reall surface: 124 , reall volume: 72
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 9 , height: 3
+reall surface: 150 , reall volume: 108
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 4 , width: 9 , height: 4
+reall surface: 176 , reall volume: 144
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 9 , height: 5
+reall surface: 202 , reall volume: 180
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 9 , height: 6
+reall surface: 228 , reall volume: 216
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 4 , width: 9 , height: 7
+reall surface: 254 , reall volume: 252
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 4 , width: 9 , height: 8
+reall surface: 280 , reall volume: 288
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 4 , width: 9 , height: 9
+reall surface: 306 , reall volume: 324
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 4 , width: 9 , height: 10
+reall surface: 332 , reall volume: 360
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 4 , width: 10 , height: 1
+reall surface: 108 , reall volume: 40
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 10 , height: 2
+reall surface: 136 , reall volume: 80
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 10 , height: 3
+reall surface: 164 , reall volume: 120
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 4 , width: 10 , height: 4
+reall surface: 192 , reall volume: 160
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 4 , width: 10 , height: 5
+reall surface: 220 , reall volume: 200
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 4 , width: 10 , height: 6
+reall surface: 248 , reall volume: 240
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 4 , width: 10 , height: 7
+reall surface: 276 , reall volume: 280
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 4 , width: 10 , height: 8
+reall surface: 304 , reall volume: 320
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 4 , width: 10 , height: 9
+reall surface: 332 , reall volume: 360
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 4 , width: 10 , height: 10
+reall surface: 360 , reall volume: 400
+Has a surface area of: 576.00
+Has Volume of: 864.00
+ 
+length: 5 , width: 1 , height: 1
+reall surface: 22 , reall volume: 5
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 5 , width: 1 , height: 2
+reall surface: 34 , reall volume: 10
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 5 , width: 1 , height: 3
+reall surface: 46 , reall volume: 15
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 5 , width: 1 , height: 4
+reall surface: 58 , reall volume: 20
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 1 , height: 5
+reall surface: 70 , reall volume: 25
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 1 , height: 6
+reall surface: 82 , reall volume: 30
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 1 , height: 7
+reall surface: 94 , reall volume: 35
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 1 , height: 8
+reall surface: 106 , reall volume: 40
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 1 , height: 9
+reall surface: 118 , reall volume: 45
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 1 , height: 10
+reall surface: 130 , reall volume: 50
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 2 , height: 1
+reall surface: 34 , reall volume: 10
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 5 , width: 2 , height: 2
+reall surface: 48 , reall volume: 20
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 5 , width: 2 , height: 3
+reall surface: 62 , reall volume: 30
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 5 , width: 2 , height: 4
+reall surface: 76 , reall volume: 40
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 2 , height: 5
+reall surface: 90 , reall volume: 50
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 2 , height: 6
+reall surface: 104 , reall volume: 60
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 2 , height: 7
+reall surface: 118 , reall volume: 70
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 2 , height: 8
+reall surface: 132 , reall volume: 80
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 2 , height: 9
+reall surface: 146 , reall volume: 90
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 2 , height: 10
+reall surface: 160 , reall volume: 100
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 3 , height: 1
+reall surface: 46 , reall volume: 15
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 5 , width: 3 , height: 2
+reall surface: 62 , reall volume: 30
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 5 , width: 3 , height: 3
+reall surface: 78 , reall volume: 45
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 5 , width: 3 , height: 4
+reall surface: 94 , reall volume: 60
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 3 , height: 5
+reall surface: 110 , reall volume: 75
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 3 , height: 6
+reall surface: 126 , reall volume: 90
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 3 , height: 7
+reall surface: 142 , reall volume: 105
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 3 , height: 8
+reall surface: 158 , reall volume: 120
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 3 , height: 9
+reall surface: 174 , reall volume: 135
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 3 , height: 10
+reall surface: 190 , reall volume: 150
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 4 , height: 1
+reall surface: 58 , reall volume: 20
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 4 , height: 2
+reall surface: 76 , reall volume: 40
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 4 , height: 3
+reall surface: 94 , reall volume: 60
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 4 , height: 4
+reall surface: 112 , reall volume: 80
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 4 , height: 5
+reall surface: 130 , reall volume: 100
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 4 , height: 6
+reall surface: 148 , reall volume: 120
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 4 , height: 7
+reall surface: 166 , reall volume: 140
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 4 , height: 8
+reall surface: 184 , reall volume: 160
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 4 , height: 9
+reall surface: 202 , reall volume: 180
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 4 , height: 10
+reall surface: 220 , reall volume: 200
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 5 , width: 5 , height: 1
+reall surface: 70 , reall volume: 25
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 5 , height: 2
+reall surface: 90 , reall volume: 50
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 5 , height: 3
+reall surface: 110 , reall volume: 75
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 5 , height: 4
+reall surface: 130 , reall volume: 100
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 5 , height: 5
+reall surface: 150 , reall volume: 125
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 5 , height: 6
+reall surface: 170 , reall volume: 150
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 5 , height: 7
+reall surface: 190 , reall volume: 175
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 5 , height: 8
+reall surface: 210 , reall volume: 200
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 5 , height: 9
+reall surface: 230 , reall volume: 225
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 5 , height: 10
+reall surface: 250 , reall volume: 250
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 5 , width: 6 , height: 1
+reall surface: 82 , reall volume: 30
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 6 , height: 2
+reall surface: 104 , reall volume: 60
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 6 , height: 3
+reall surface: 126 , reall volume: 90
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 5 , width: 6 , height: 4
+reall surface: 148 , reall volume: 120
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 6 , height: 5
+reall surface: 170 , reall volume: 150
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 6 , height: 6
+reall surface: 192 , reall volume: 180
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 6 , height: 7
+reall surface: 214 , reall volume: 210
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 6 , height: 8
+reall surface: 236 , reall volume: 240
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 6 , height: 9
+reall surface: 258 , reall volume: 270
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 6 , height: 10
+reall surface: 280 , reall volume: 300
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 5 , width: 7 , height: 1
+reall surface: 94 , reall volume: 35
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 7 , height: 2
+reall surface: 118 , reall volume: 70
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 7 , height: 3
+reall surface: 142 , reall volume: 105
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 7 , height: 4
+reall surface: 166 , reall volume: 140
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 7 , height: 5
+reall surface: 190 , reall volume: 175
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 7 , height: 6
+reall surface: 214 , reall volume: 210
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 7 , height: 7
+reall surface: 238 , reall volume: 245
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 5 , width: 7 , height: 8
+reall surface: 262 , reall volume: 280
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 5 , width: 7 , height: 9
+reall surface: 286 , reall volume: 315
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 5 , width: 7 , height: 10
+reall surface: 310 , reall volume: 350
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 5 , width: 8 , height: 1
+reall surface: 106 , reall volume: 40
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 8 , height: 2
+reall surface: 132 , reall volume: 80
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 8 , height: 3
+reall surface: 158 , reall volume: 120
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 8 , height: 4
+reall surface: 184 , reall volume: 160
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 8 , height: 5
+reall surface: 210 , reall volume: 200
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 8 , height: 6
+reall surface: 236 , reall volume: 240
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 8 , height: 7
+reall surface: 262 , reall volume: 280
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 5 , width: 8 , height: 8
+reall surface: 288 , reall volume: 320
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 5 , width: 8 , height: 9
+reall surface: 314 , reall volume: 360
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 5 , width: 8 , height: 10
+reall surface: 340 , reall volume: 400
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 5 , width: 9 , height: 1
+reall surface: 118 , reall volume: 45
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 9 , height: 2
+reall surface: 146 , reall volume: 90
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 9 , height: 3
+reall surface: 174 , reall volume: 135
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 5 , width: 9 , height: 4
+reall surface: 202 , reall volume: 180
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 9 , height: 5
+reall surface: 230 , reall volume: 225
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 9 , height: 6
+reall surface: 258 , reall volume: 270
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 5 , width: 9 , height: 7
+reall surface: 286 , reall volume: 315
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 5 , width: 9 , height: 8
+reall surface: 314 , reall volume: 360
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 5 , width: 9 , height: 9
+reall surface: 342 , reall volume: 405
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 5 , width: 9 , height: 10
+reall surface: 370 , reall volume: 450
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 5 , width: 10 , height: 1
+reall surface: 130 , reall volume: 50
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 10 , height: 2
+reall surface: 160 , reall volume: 100
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 10 , height: 3
+reall surface: 190 , reall volume: 150
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 5 , width: 10 , height: 4
+reall surface: 220 , reall volume: 200
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 5 , width: 10 , height: 5
+reall surface: 250 , reall volume: 250
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 5 , width: 10 , height: 6
+reall surface: 280 , reall volume: 300
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 5 , width: 10 , height: 7
+reall surface: 310 , reall volume: 350
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 5 , width: 10 , height: 8
+reall surface: 340 , reall volume: 400
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 5 , width: 10 , height: 9
+reall surface: 370 , reall volume: 450
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 5 , width: 10 , height: 10
+reall surface: 400 , reall volume: 500
+Has a surface area of: 576.00
+Has Volume of: 864.00
+ 
+length: 6 , width: 1 , height: 1
+reall surface: 26 , reall volume: 6
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 6 , width: 1 , height: 2
+reall surface: 40 , reall volume: 12
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 6 , width: 1 , height: 3
+reall surface: 54 , reall volume: 18
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 6 , width: 1 , height: 4
+reall surface: 68 , reall volume: 24
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 1 , height: 5
+reall surface: 82 , reall volume: 30
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 1 , height: 6
+reall surface: 96 , reall volume: 36
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 1 , height: 7
+reall surface: 110 , reall volume: 42
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 1 , height: 8
+reall surface: 124 , reall volume: 48
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 1 , height: 9
+reall surface: 138 , reall volume: 54
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 1 , height: 10
+reall surface: 152 , reall volume: 60
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 2 , height: 1
+reall surface: 40 , reall volume: 12
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 6 , width: 2 , height: 2
+reall surface: 56 , reall volume: 24
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 6 , width: 2 , height: 3
+reall surface: 72 , reall volume: 36
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 6 , width: 2 , height: 4
+reall surface: 88 , reall volume: 48
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 2 , height: 5
+reall surface: 104 , reall volume: 60
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 2 , height: 6
+reall surface: 120 , reall volume: 72
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 2 , height: 7
+reall surface: 136 , reall volume: 84
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 2 , height: 8
+reall surface: 152 , reall volume: 96
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 2 , height: 9
+reall surface: 168 , reall volume: 108
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 2 , height: 10
+reall surface: 184 , reall volume: 120
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 3 , height: 1
+reall surface: 54 , reall volume: 18
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 6 , width: 3 , height: 2
+reall surface: 72 , reall volume: 36
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 6 , width: 3 , height: 3
+reall surface: 90 , reall volume: 54
+Has a surface area of: 90.00
+Has Volume of: 54.00
+ 
+length: 6 , width: 3 , height: 4
+reall surface: 108 , reall volume: 72
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 3 , height: 5
+reall surface: 126 , reall volume: 90
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 3 , height: 6
+reall surface: 144 , reall volume: 108
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 3 , height: 7
+reall surface: 162 , reall volume: 126
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 3 , height: 8
+reall surface: 180 , reall volume: 144
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 3 , height: 9
+reall surface: 198 , reall volume: 162
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 3 , height: 10
+reall surface: 216 , reall volume: 180
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 4 , height: 1
+reall surface: 68 , reall volume: 24
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 4 , height: 2
+reall surface: 88 , reall volume: 48
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 4 , height: 3
+reall surface: 108 , reall volume: 72
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 4 , height: 4
+reall surface: 128 , reall volume: 96
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 4 , height: 5
+reall surface: 148 , reall volume: 120
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 4 , height: 6
+reall surface: 168 , reall volume: 144
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 4 , height: 7
+reall surface: 188 , reall volume: 168
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 4 , height: 8
+reall surface: 208 , reall volume: 192
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 4 , height: 9
+reall surface: 228 , reall volume: 216
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 4 , height: 10
+reall surface: 248 , reall volume: 240
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 6 , width: 5 , height: 1
+reall surface: 82 , reall volume: 30
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 5 , height: 2
+reall surface: 104 , reall volume: 60
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 5 , height: 3
+reall surface: 126 , reall volume: 90
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 5 , height: 4
+reall surface: 148 , reall volume: 120
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 5 , height: 5
+reall surface: 170 , reall volume: 150
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 5 , height: 6
+reall surface: 192 , reall volume: 180
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 5 , height: 7
+reall surface: 214 , reall volume: 210
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 5 , height: 8
+reall surface: 236 , reall volume: 240
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 5 , height: 9
+reall surface: 258 , reall volume: 270
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 5 , height: 10
+reall surface: 280 , reall volume: 300
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 6 , width: 6 , height: 1
+reall surface: 96 , reall volume: 36
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 6 , height: 2
+reall surface: 120 , reall volume: 72
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 6 , height: 3
+reall surface: 144 , reall volume: 108
+Has a surface area of: 144.00
+Has Volume of: 108.00
+ 
+length: 6 , width: 6 , height: 4
+reall surface: 168 , reall volume: 144
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 6 , height: 5
+reall surface: 192 , reall volume: 180
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 6 , height: 6
+reall surface: 216 , reall volume: 216
+Has a surface area of: 216.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 6 , height: 7
+reall surface: 240 , reall volume: 252
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 6 , height: 8
+reall surface: 264 , reall volume: 288
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 6 , height: 9
+reall surface: 288 , reall volume: 324
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 6 , height: 10
+reall surface: 312 , reall volume: 360
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 6 , width: 7 , height: 1
+reall surface: 110 , reall volume: 42
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 7 , height: 2
+reall surface: 136 , reall volume: 84
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 7 , height: 3
+reall surface: 162 , reall volume: 126
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 7 , height: 4
+reall surface: 188 , reall volume: 168
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 7 , height: 5
+reall surface: 214 , reall volume: 210
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 7 , height: 6
+reall surface: 240 , reall volume: 252
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 7 , height: 7
+reall surface: 266 , reall volume: 294
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 6 , width: 7 , height: 8
+reall surface: 292 , reall volume: 336
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 6 , width: 7 , height: 9
+reall surface: 318 , reall volume: 378
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 6 , width: 7 , height: 10
+reall surface: 344 , reall volume: 420
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 6 , width: 8 , height: 1
+reall surface: 124 , reall volume: 48
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 8 , height: 2
+reall surface: 152 , reall volume: 96
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 8 , height: 3
+reall surface: 180 , reall volume: 144
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 8 , height: 4
+reall surface: 208 , reall volume: 192
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 8 , height: 5
+reall surface: 236 , reall volume: 240
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 8 , height: 6
+reall surface: 264 , reall volume: 288
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 8 , height: 7
+reall surface: 292 , reall volume: 336
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 6 , width: 8 , height: 8
+reall surface: 320 , reall volume: 384
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 6 , width: 8 , height: 9
+reall surface: 348 , reall volume: 432
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 6 , width: 8 , height: 10
+reall surface: 376 , reall volume: 480
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 6 , width: 9 , height: 1
+reall surface: 138 , reall volume: 54
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 9 , height: 2
+reall surface: 168 , reall volume: 108
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 9 , height: 3
+reall surface: 198 , reall volume: 162
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 6 , width: 9 , height: 4
+reall surface: 228 , reall volume: 216
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 9 , height: 5
+reall surface: 258 , reall volume: 270
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 9 , height: 6
+reall surface: 288 , reall volume: 324
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 6 , width: 9 , height: 7
+reall surface: 318 , reall volume: 378
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 6 , width: 9 , height: 8
+reall surface: 348 , reall volume: 432
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 6 , width: 9 , height: 9
+reall surface: 378 , reall volume: 486
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 6 , width: 9 , height: 10
+reall surface: 408 , reall volume: 540
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 6 , width: 10 , height: 1
+reall surface: 152 , reall volume: 60
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 10 , height: 2
+reall surface: 184 , reall volume: 120
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 10 , height: 3
+reall surface: 216 , reall volume: 180
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 6 , width: 10 , height: 4
+reall surface: 248 , reall volume: 240
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 6 , width: 10 , height: 5
+reall surface: 280 , reall volume: 300
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 6 , width: 10 , height: 6
+reall surface: 312 , reall volume: 360
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 6 , width: 10 , height: 7
+reall surface: 344 , reall volume: 420
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 6 , width: 10 , height: 8
+reall surface: 376 , reall volume: 480
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 6 , width: 10 , height: 9
+reall surface: 408 , reall volume: 540
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 6 , width: 10 , height: 10
+reall surface: 440 , reall volume: 600
+Has a surface area of: 576.00
+Has Volume of: 864.00
+ 
+length: 7 , width: 1 , height: 1
+reall surface: 30 , reall volume: 7
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 7 , width: 1 , height: 2
+reall surface: 46 , reall volume: 14
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 7 , width: 1 , height: 3
+reall surface: 62 , reall volume: 21
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 7 , width: 1 , height: 4
+reall surface: 78 , reall volume: 28
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 1 , height: 5
+reall surface: 94 , reall volume: 35
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 1 , height: 6
+reall surface: 110 , reall volume: 42
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 1 , height: 7
+reall surface: 126 , reall volume: 49
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 1 , height: 8
+reall surface: 142 , reall volume: 56
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 1 , height: 9
+reall surface: 158 , reall volume: 63
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 1 , height: 10
+reall surface: 174 , reall volume: 70
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 2 , height: 1
+reall surface: 46 , reall volume: 14
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 7 , width: 2 , height: 2
+reall surface: 64 , reall volume: 28
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 7 , width: 2 , height: 3
+reall surface: 82 , reall volume: 42
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 7 , width: 2 , height: 4
+reall surface: 100 , reall volume: 56
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 2 , height: 5
+reall surface: 118 , reall volume: 70
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 2 , height: 6
+reall surface: 136 , reall volume: 84
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 2 , height: 7
+reall surface: 154 , reall volume: 98
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 2 , height: 8
+reall surface: 172 , reall volume: 112
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 2 , height: 9
+reall surface: 190 , reall volume: 126
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 2 , height: 10
+reall surface: 208 , reall volume: 140
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 3 , height: 1
+reall surface: 62 , reall volume: 21
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 7 , width: 3 , height: 2
+reall surface: 82 , reall volume: 42
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 7 , width: 3 , height: 3
+reall surface: 102 , reall volume: 63
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 7 , width: 3 , height: 4
+reall surface: 122 , reall volume: 84
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 3 , height: 5
+reall surface: 142 , reall volume: 105
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 3 , height: 6
+reall surface: 162 , reall volume: 126
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 3 , height: 7
+reall surface: 182 , reall volume: 147
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 3 , height: 8
+reall surface: 202 , reall volume: 168
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 3 , height: 9
+reall surface: 222 , reall volume: 189
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 3 , height: 10
+reall surface: 242 , reall volume: 210
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 4 , height: 1
+reall surface: 78 , reall volume: 28
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 4 , height: 2
+reall surface: 100 , reall volume: 56
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 4 , height: 3
+reall surface: 122 , reall volume: 84
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 4 , height: 4
+reall surface: 144 , reall volume: 112
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 4 , height: 5
+reall surface: 166 , reall volume: 140
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 4 , height: 6
+reall surface: 188 , reall volume: 168
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 4 , height: 7
+reall surface: 210 , reall volume: 196
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 4 , height: 8
+reall surface: 232 , reall volume: 224
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 4 , height: 9
+reall surface: 254 , reall volume: 252
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 4 , height: 10
+reall surface: 276 , reall volume: 280
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 7 , width: 5 , height: 1
+reall surface: 94 , reall volume: 35
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 5 , height: 2
+reall surface: 118 , reall volume: 70
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 5 , height: 3
+reall surface: 142 , reall volume: 105
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 5 , height: 4
+reall surface: 166 , reall volume: 140
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 5 , height: 5
+reall surface: 190 , reall volume: 175
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 5 , height: 6
+reall surface: 214 , reall volume: 210
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 5 , height: 7
+reall surface: 238 , reall volume: 245
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 5 , height: 8
+reall surface: 262 , reall volume: 280
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 5 , height: 9
+reall surface: 286 , reall volume: 315
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 5 , height: 10
+reall surface: 310 , reall volume: 350
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 7 , width: 6 , height: 1
+reall surface: 110 , reall volume: 42
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 6 , height: 2
+reall surface: 136 , reall volume: 84
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 6 , height: 3
+reall surface: 162 , reall volume: 126
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 7 , width: 6 , height: 4
+reall surface: 188 , reall volume: 168
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 6 , height: 5
+reall surface: 214 , reall volume: 210
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 6 , height: 6
+reall surface: 240 , reall volume: 252
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 6 , height: 7
+reall surface: 266 , reall volume: 294
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 6 , height: 8
+reall surface: 292 , reall volume: 336
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 6 , height: 9
+reall surface: 318 , reall volume: 378
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 6 , height: 10
+reall surface: 344 , reall volume: 420
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 7 , width: 7 , height: 1
+reall surface: 126 , reall volume: 49
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 7 , height: 2
+reall surface: 154 , reall volume: 98
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 7 , height: 3
+reall surface: 182 , reall volume: 147
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 7 , height: 4
+reall surface: 210 , reall volume: 196
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 7 , height: 5
+reall surface: 238 , reall volume: 245
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 7 , height: 6
+reall surface: 266 , reall volume: 294
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 7 , height: 7
+reall surface: 294 , reall volume: 343
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 7 , width: 7 , height: 8
+reall surface: 322 , reall volume: 392
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 7 , width: 7 , height: 9
+reall surface: 350 , reall volume: 441
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 7 , width: 7 , height: 10
+reall surface: 378 , reall volume: 490
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 7 , width: 8 , height: 1
+reall surface: 142 , reall volume: 56
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 8 , height: 2
+reall surface: 172 , reall volume: 112
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 8 , height: 3
+reall surface: 202 , reall volume: 168
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 8 , height: 4
+reall surface: 232 , reall volume: 224
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 8 , height: 5
+reall surface: 262 , reall volume: 280
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 8 , height: 6
+reall surface: 292 , reall volume: 336
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 8 , height: 7
+reall surface: 322 , reall volume: 392
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 7 , width: 8 , height: 8
+reall surface: 352 , reall volume: 448
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 7 , width: 8 , height: 9
+reall surface: 382 , reall volume: 504
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 7 , width: 8 , height: 10
+reall surface: 412 , reall volume: 560
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 7 , width: 9 , height: 1
+reall surface: 158 , reall volume: 63
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 9 , height: 2
+reall surface: 190 , reall volume: 126
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 9 , height: 3
+reall surface: 222 , reall volume: 189
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 7 , width: 9 , height: 4
+reall surface: 254 , reall volume: 252
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 9 , height: 5
+reall surface: 286 , reall volume: 315
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 9 , height: 6
+reall surface: 318 , reall volume: 378
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 7 , width: 9 , height: 7
+reall surface: 350 , reall volume: 441
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 7 , width: 9 , height: 8
+reall surface: 382 , reall volume: 504
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 7 , width: 9 , height: 9
+reall surface: 414 , reall volume: 567
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 7 , width: 9 , height: 10
+reall surface: 446 , reall volume: 630
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 7 , width: 10 , height: 1
+reall surface: 174 , reall volume: 70
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 10 , height: 2
+reall surface: 208 , reall volume: 140
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 10 , height: 3
+reall surface: 242 , reall volume: 210
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 7 , width: 10 , height: 4
+reall surface: 276 , reall volume: 280
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 7 , width: 10 , height: 5
+reall surface: 310 , reall volume: 350
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 7 , width: 10 , height: 6
+reall surface: 344 , reall volume: 420
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 7 , width: 10 , height: 7
+reall surface: 378 , reall volume: 490
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 7 , width: 10 , height: 8
+reall surface: 412 , reall volume: 560
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 7 , width: 10 , height: 9
+reall surface: 446 , reall volume: 630
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 7 , width: 10 , height: 10
+reall surface: 480 , reall volume: 700
+Has a surface area of: 720.00
+Has Volume of: 1296.00
+ 
+length: 8 , width: 1 , height: 1
+reall surface: 34 , reall volume: 8
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 8 , width: 1 , height: 2
+reall surface: 52 , reall volume: 16
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 8 , width: 1 , height: 3
+reall surface: 70 , reall volume: 24
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 8 , width: 1 , height: 4
+reall surface: 88 , reall volume: 32
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 1 , height: 5
+reall surface: 106 , reall volume: 40
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 1 , height: 6
+reall surface: 124 , reall volume: 48
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 1 , height: 7
+reall surface: 142 , reall volume: 56
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 1 , height: 8
+reall surface: 160 , reall volume: 64
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 1 , height: 9
+reall surface: 178 , reall volume: 72
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 1 , height: 10
+reall surface: 196 , reall volume: 80
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 2 , height: 1
+reall surface: 52 , reall volume: 16
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 8 , width: 2 , height: 2
+reall surface: 72 , reall volume: 32
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 8 , width: 2 , height: 3
+reall surface: 92 , reall volume: 48
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 8 , width: 2 , height: 4
+reall surface: 112 , reall volume: 64
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 2 , height: 5
+reall surface: 132 , reall volume: 80
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 2 , height: 6
+reall surface: 152 , reall volume: 96
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 2 , height: 7
+reall surface: 172 , reall volume: 112
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 2 , height: 8
+reall surface: 192 , reall volume: 128
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 2 , height: 9
+reall surface: 212 , reall volume: 144
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 2 , height: 10
+reall surface: 232 , reall volume: 160
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 3 , height: 1
+reall surface: 70 , reall volume: 24
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 8 , width: 3 , height: 2
+reall surface: 92 , reall volume: 48
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 8 , width: 3 , height: 3
+reall surface: 114 , reall volume: 72
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 8 , width: 3 , height: 4
+reall surface: 136 , reall volume: 96
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 3 , height: 5
+reall surface: 158 , reall volume: 120
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 3 , height: 6
+reall surface: 180 , reall volume: 144
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 3 , height: 7
+reall surface: 202 , reall volume: 168
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 3 , height: 8
+reall surface: 224 , reall volume: 192
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 3 , height: 9
+reall surface: 246 , reall volume: 216
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 3 , height: 10
+reall surface: 268 , reall volume: 240
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 4 , height: 1
+reall surface: 88 , reall volume: 32
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 4 , height: 2
+reall surface: 112 , reall volume: 64
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 4 , height: 3
+reall surface: 136 , reall volume: 96
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 4 , height: 4
+reall surface: 160 , reall volume: 128
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 4 , height: 5
+reall surface: 184 , reall volume: 160
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 4 , height: 6
+reall surface: 208 , reall volume: 192
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 4 , height: 7
+reall surface: 232 , reall volume: 224
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 4 , height: 8
+reall surface: 256 , reall volume: 256
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 4 , height: 9
+reall surface: 280 , reall volume: 288
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 4 , height: 10
+reall surface: 304 , reall volume: 320
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 8 , width: 5 , height: 1
+reall surface: 106 , reall volume: 40
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 5 , height: 2
+reall surface: 132 , reall volume: 80
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 5 , height: 3
+reall surface: 158 , reall volume: 120
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 5 , height: 4
+reall surface: 184 , reall volume: 160
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 5 , height: 5
+reall surface: 210 , reall volume: 200
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 5 , height: 6
+reall surface: 236 , reall volume: 240
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 5 , height: 7
+reall surface: 262 , reall volume: 280
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 5 , height: 8
+reall surface: 288 , reall volume: 320
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 5 , height: 9
+reall surface: 314 , reall volume: 360
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 5 , height: 10
+reall surface: 340 , reall volume: 400
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 8 , width: 6 , height: 1
+reall surface: 124 , reall volume: 48
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 6 , height: 2
+reall surface: 152 , reall volume: 96
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 6 , height: 3
+reall surface: 180 , reall volume: 144
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 8 , width: 6 , height: 4
+reall surface: 208 , reall volume: 192
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 6 , height: 5
+reall surface: 236 , reall volume: 240
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 6 , height: 6
+reall surface: 264 , reall volume: 288
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 6 , height: 7
+reall surface: 292 , reall volume: 336
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 6 , height: 8
+reall surface: 320 , reall volume: 384
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 6 , height: 9
+reall surface: 348 , reall volume: 432
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 6 , height: 10
+reall surface: 376 , reall volume: 480
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 8 , width: 7 , height: 1
+reall surface: 142 , reall volume: 56
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 7 , height: 2
+reall surface: 172 , reall volume: 112
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 7 , height: 3
+reall surface: 202 , reall volume: 168
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 7 , height: 4
+reall surface: 232 , reall volume: 224
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 7 , height: 5
+reall surface: 262 , reall volume: 280
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 7 , height: 6
+reall surface: 292 , reall volume: 336
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 7 , height: 7
+reall surface: 322 , reall volume: 392
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 8 , width: 7 , height: 8
+reall surface: 352 , reall volume: 448
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 8 , width: 7 , height: 9
+reall surface: 382 , reall volume: 504
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 8 , width: 7 , height: 10
+reall surface: 412 , reall volume: 560
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 8 , width: 8 , height: 1
+reall surface: 160 , reall volume: 64
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 8 , height: 2
+reall surface: 192 , reall volume: 128
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 8 , height: 3
+reall surface: 224 , reall volume: 192
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 8 , height: 4
+reall surface: 256 , reall volume: 256
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 8 , height: 5
+reall surface: 288 , reall volume: 320
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 8 , height: 6
+reall surface: 320 , reall volume: 384
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 8 , height: 7
+reall surface: 352 , reall volume: 448
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 8 , width: 8 , height: 8
+reall surface: 384 , reall volume: 512
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 8 , width: 8 , height: 9
+reall surface: 416 , reall volume: 576
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 8 , width: 8 , height: 10
+reall surface: 448 , reall volume: 640
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 8 , width: 9 , height: 1
+reall surface: 178 , reall volume: 72
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 9 , height: 2
+reall surface: 212 , reall volume: 144
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 9 , height: 3
+reall surface: 246 , reall volume: 216
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 8 , width: 9 , height: 4
+reall surface: 280 , reall volume: 288
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 9 , height: 5
+reall surface: 314 , reall volume: 360
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 9 , height: 6
+reall surface: 348 , reall volume: 432
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 8 , width: 9 , height: 7
+reall surface: 382 , reall volume: 504
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 8 , width: 9 , height: 8
+reall surface: 416 , reall volume: 576
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 8 , width: 9 , height: 9
+reall surface: 450 , reall volume: 648
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 8 , width: 9 , height: 10
+reall surface: 484 , reall volume: 720
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 8 , width: 10 , height: 1
+reall surface: 196 , reall volume: 80
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 10 , height: 2
+reall surface: 232 , reall volume: 160
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 10 , height: 3
+reall surface: 268 , reall volume: 240
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 8 , width: 10 , height: 4
+reall surface: 304 , reall volume: 320
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 8 , width: 10 , height: 5
+reall surface: 340 , reall volume: 400
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 8 , width: 10 , height: 6
+reall surface: 376 , reall volume: 480
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 8 , width: 10 , height: 7
+reall surface: 412 , reall volume: 560
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 8 , width: 10 , height: 8
+reall surface: 448 , reall volume: 640
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 8 , width: 10 , height: 9
+reall surface: 484 , reall volume: 720
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 8 , width: 10 , height: 10
+reall surface: 520 , reall volume: 800
+Has a surface area of: 720.00
+Has Volume of: 1296.00
+ 
+length: 9 , width: 1 , height: 1
+reall surface: 38 , reall volume: 9
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 9 , width: 1 , height: 2
+reall surface: 58 , reall volume: 18
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 9 , width: 1 , height: 3
+reall surface: 78 , reall volume: 27
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 9 , width: 1 , height: 4
+reall surface: 98 , reall volume: 36
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 1 , height: 5
+reall surface: 118 , reall volume: 45
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 1 , height: 6
+reall surface: 138 , reall volume: 54
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 1 , height: 7
+reall surface: 158 , reall volume: 63
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 1 , height: 8
+reall surface: 178 , reall volume: 72
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 1 , height: 9
+reall surface: 198 , reall volume: 81
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 1 , height: 10
+reall surface: 218 , reall volume: 90
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 2 , height: 1
+reall surface: 58 , reall volume: 18
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 9 , width: 2 , height: 2
+reall surface: 80 , reall volume: 36
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 9 , width: 2 , height: 3
+reall surface: 102 , reall volume: 54
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 9 , width: 2 , height: 4
+reall surface: 124 , reall volume: 72
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 2 , height: 5
+reall surface: 146 , reall volume: 90
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 2 , height: 6
+reall surface: 168 , reall volume: 108
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 2 , height: 7
+reall surface: 190 , reall volume: 126
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 2 , height: 8
+reall surface: 212 , reall volume: 144
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 2 , height: 9
+reall surface: 234 , reall volume: 162
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 2 , height: 10
+reall surface: 256 , reall volume: 180
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 3 , height: 1
+reall surface: 78 , reall volume: 27
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 9 , width: 3 , height: 2
+reall surface: 102 , reall volume: 54
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 9 , width: 3 , height: 3
+reall surface: 126 , reall volume: 81
+Has a surface area of: 126.00
+Has Volume of: 81.00
+ 
+length: 9 , width: 3 , height: 4
+reall surface: 150 , reall volume: 108
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 3 , height: 5
+reall surface: 174 , reall volume: 135
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 3 , height: 6
+reall surface: 198 , reall volume: 162
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 3 , height: 7
+reall surface: 222 , reall volume: 189
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 3 , height: 8
+reall surface: 246 , reall volume: 216
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 3 , height: 9
+reall surface: 270 , reall volume: 243
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 3 , height: 10
+reall surface: 294 , reall volume: 270
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 4 , height: 1
+reall surface: 98 , reall volume: 36
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 4 , height: 2
+reall surface: 124 , reall volume: 72
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 4 , height: 3
+reall surface: 150 , reall volume: 108
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 4 , height: 4
+reall surface: 176 , reall volume: 144
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 4 , height: 5
+reall surface: 202 , reall volume: 180
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 4 , height: 6
+reall surface: 228 , reall volume: 216
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 4 , height: 7
+reall surface: 254 , reall volume: 252
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 4 , height: 8
+reall surface: 280 , reall volume: 288
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 4 , height: 9
+reall surface: 306 , reall volume: 324
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 4 , height: 10
+reall surface: 332 , reall volume: 360
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 9 , width: 5 , height: 1
+reall surface: 118 , reall volume: 45
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 5 , height: 2
+reall surface: 146 , reall volume: 90
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 5 , height: 3
+reall surface: 174 , reall volume: 135
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 5 , height: 4
+reall surface: 202 , reall volume: 180
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 5 , height: 5
+reall surface: 230 , reall volume: 225
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 5 , height: 6
+reall surface: 258 , reall volume: 270
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 5 , height: 7
+reall surface: 286 , reall volume: 315
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 5 , height: 8
+reall surface: 314 , reall volume: 360
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 5 , height: 9
+reall surface: 342 , reall volume: 405
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 5 , height: 10
+reall surface: 370 , reall volume: 450
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 9 , width: 6 , height: 1
+reall surface: 138 , reall volume: 54
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 6 , height: 2
+reall surface: 168 , reall volume: 108
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 6 , height: 3
+reall surface: 198 , reall volume: 162
+Has a surface area of: 198.00
+Has Volume of: 162.00
+ 
+length: 9 , width: 6 , height: 4
+reall surface: 228 , reall volume: 216
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 6 , height: 5
+reall surface: 258 , reall volume: 270
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 6 , height: 6
+reall surface: 288 , reall volume: 324
+Has a surface area of: 288.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 6 , height: 7
+reall surface: 318 , reall volume: 378
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 6 , height: 8
+reall surface: 348 , reall volume: 432
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 6 , height: 9
+reall surface: 378 , reall volume: 486
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 6 , height: 10
+reall surface: 408 , reall volume: 540
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 9 , width: 7 , height: 1
+reall surface: 158 , reall volume: 63
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 7 , height: 2
+reall surface: 190 , reall volume: 126
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 7 , height: 3
+reall surface: 222 , reall volume: 189
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 7 , height: 4
+reall surface: 254 , reall volume: 252
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 7 , height: 5
+reall surface: 286 , reall volume: 315
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 7 , height: 6
+reall surface: 318 , reall volume: 378
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 7 , height: 7
+reall surface: 350 , reall volume: 441
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 9 , width: 7 , height: 8
+reall surface: 382 , reall volume: 504
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 9 , width: 7 , height: 9
+reall surface: 414 , reall volume: 567
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 9 , width: 7 , height: 10
+reall surface: 446 , reall volume: 630
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 9 , width: 8 , height: 1
+reall surface: 178 , reall volume: 72
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 8 , height: 2
+reall surface: 212 , reall volume: 144
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 8 , height: 3
+reall surface: 246 , reall volume: 216
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 8 , height: 4
+reall surface: 280 , reall volume: 288
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 8 , height: 5
+reall surface: 314 , reall volume: 360
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 8 , height: 6
+reall surface: 348 , reall volume: 432
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 8 , height: 7
+reall surface: 382 , reall volume: 504
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 9 , width: 8 , height: 8
+reall surface: 416 , reall volume: 576
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 9 , width: 8 , height: 9
+reall surface: 450 , reall volume: 648
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 9 , width: 8 , height: 10
+reall surface: 484 , reall volume: 720
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 9 , width: 9 , height: 1
+reall surface: 198 , reall volume: 81
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 9 , height: 2
+reall surface: 234 , reall volume: 162
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 9 , height: 3
+reall surface: 270 , reall volume: 243
+Has a surface area of: 270.00
+Has Volume of: 243.00
+ 
+length: 9 , width: 9 , height: 4
+reall surface: 306 , reall volume: 324
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 9 , height: 5
+reall surface: 342 , reall volume: 405
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 9 , height: 6
+reall surface: 378 , reall volume: 486
+Has a surface area of: 378.00
+Has Volume of: 486.00
+ 
+length: 9 , width: 9 , height: 7
+reall surface: 414 , reall volume: 567
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 9 , width: 9 , height: 8
+reall surface: 450 , reall volume: 648
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 9 , width: 9 , height: 9
+reall surface: 486 , reall volume: 729
+Has a surface area of: 486.00
+Has Volume of: 729.00
+ 
+length: 9 , width: 9 , height: 10
+reall surface: 522 , reall volume: 810
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 9 , width: 10 , height: 1
+reall surface: 218 , reall volume: 90
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 10 , height: 2
+reall surface: 256 , reall volume: 180
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 10 , height: 3
+reall surface: 294 , reall volume: 270
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 9 , width: 10 , height: 4
+reall surface: 332 , reall volume: 360
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 9 , width: 10 , height: 5
+reall surface: 370 , reall volume: 450
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 9 , width: 10 , height: 6
+reall surface: 408 , reall volume: 540
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 9 , width: 10 , height: 7
+reall surface: 446 , reall volume: 630
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 9 , width: 10 , height: 8
+reall surface: 484 , reall volume: 720
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 9 , width: 10 , height: 9
+reall surface: 522 , reall volume: 810
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 9 , width: 10 , height: 10
+reall surface: 560 , reall volume: 900
+Has a surface area of: 720.00
+Has Volume of: 1296.00
+ 
+length: 10 , width: 1 , height: 1
+reall surface: 42 , reall volume: 10
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 10 , width: 1 , height: 2
+reall surface: 64 , reall volume: 20
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 10 , width: 1 , height: 3
+reall surface: 86 , reall volume: 30
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 10 , width: 1 , height: 4
+reall surface: 108 , reall volume: 40
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 1 , height: 5
+reall surface: 130 , reall volume: 50
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 1 , height: 6
+reall surface: 152 , reall volume: 60
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 1 , height: 7
+reall surface: 174 , reall volume: 70
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 1 , height: 8
+reall surface: 196 , reall volume: 80
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 1 , height: 9
+reall surface: 218 , reall volume: 90
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 1 , height: 10
+reall surface: 240 , reall volume: 100
+Has a surface area of: 432.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 2 , height: 1
+reall surface: 64 , reall volume: 20
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 10 , width: 2 , height: 2
+reall surface: 88 , reall volume: 40
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 10 , width: 2 , height: 3
+reall surface: 112 , reall volume: 60
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 10 , width: 2 , height: 4
+reall surface: 136 , reall volume: 80
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 2 , height: 5
+reall surface: 160 , reall volume: 100
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 2 , height: 6
+reall surface: 184 , reall volume: 120
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 2 , height: 7
+reall surface: 208 , reall volume: 140
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 2 , height: 8
+reall surface: 232 , reall volume: 160
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 2 , height: 9
+reall surface: 256 , reall volume: 180
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 2 , height: 10
+reall surface: 280 , reall volume: 200
+Has a surface area of: 432.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 3 , height: 1
+reall surface: 86 , reall volume: 30
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 10 , width: 3 , height: 2
+reall surface: 112 , reall volume: 60
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 10 , width: 3 , height: 3
+reall surface: 138 , reall volume: 90
+Has a surface area of: 162.00
+Has Volume of: 108.00
+ 
+length: 10 , width: 3 , height: 4
+reall surface: 164 , reall volume: 120
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 3 , height: 5
+reall surface: 190 , reall volume: 150
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 3 , height: 6
+reall surface: 216 , reall volume: 180
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 3 , height: 7
+reall surface: 242 , reall volume: 210
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 3 , height: 8
+reall surface: 268 , reall volume: 240
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 3 , height: 9
+reall surface: 294 , reall volume: 270
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 3 , height: 10
+reall surface: 320 , reall volume: 300
+Has a surface area of: 432.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 4 , height: 1
+reall surface: 108 , reall volume: 40
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 4 , height: 2
+reall surface: 136 , reall volume: 80
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 4 , height: 3
+reall surface: 164 , reall volume: 120
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 4 , height: 4
+reall surface: 192 , reall volume: 160
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 4 , height: 5
+reall surface: 220 , reall volume: 200
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 4 , height: 6
+reall surface: 248 , reall volume: 240
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 4 , height: 7
+reall surface: 276 , reall volume: 280
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 4 , height: 8
+reall surface: 304 , reall volume: 320
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 4 , height: 9
+reall surface: 332 , reall volume: 360
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 4 , height: 10
+reall surface: 360 , reall volume: 400
+Has a surface area of: 576.00
+Has Volume of: 864.00
+ 
+length: 10 , width: 5 , height: 1
+reall surface: 130 , reall volume: 50
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 5 , height: 2
+reall surface: 160 , reall volume: 100
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 5 , height: 3
+reall surface: 190 , reall volume: 150
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 5 , height: 4
+reall surface: 220 , reall volume: 200
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 5 , height: 5
+reall surface: 250 , reall volume: 250
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 5 , height: 6
+reall surface: 280 , reall volume: 300
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 5 , height: 7
+reall surface: 310 , reall volume: 350
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 5 , height: 8
+reall surface: 340 , reall volume: 400
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 5 , height: 9
+reall surface: 370 , reall volume: 450
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 5 , height: 10
+reall surface: 400 , reall volume: 500
+Has a surface area of: 576.00
+Has Volume of: 864.00
+ 
+length: 10 , width: 6 , height: 1
+reall surface: 152 , reall volume: 60
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 6 , height: 2
+reall surface: 184 , reall volume: 120
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 6 , height: 3
+reall surface: 216 , reall volume: 180
+Has a surface area of: 252.00
+Has Volume of: 216.00
+ 
+length: 10 , width: 6 , height: 4
+reall surface: 248 , reall volume: 240
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 6 , height: 5
+reall surface: 280 , reall volume: 300
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 6 , height: 6
+reall surface: 312 , reall volume: 360
+Has a surface area of: 360.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 6 , height: 7
+reall surface: 344 , reall volume: 420
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 6 , height: 8
+reall surface: 376 , reall volume: 480
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 6 , height: 9
+reall surface: 408 , reall volume: 540
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 6 , height: 10
+reall surface: 440 , reall volume: 600
+Has a surface area of: 576.00
+Has Volume of: 864.00
+ 
+length: 10 , width: 7 , height: 1
+reall surface: 174 , reall volume: 70
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 7 , height: 2
+reall surface: 208 , reall volume: 140
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 7 , height: 3
+reall surface: 242 , reall volume: 210
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 7 , height: 4
+reall surface: 276 , reall volume: 280
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 7 , height: 5
+reall surface: 310 , reall volume: 350
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 7 , height: 6
+reall surface: 344 , reall volume: 420
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 7 , height: 7
+reall surface: 378 , reall volume: 490
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 10 , width: 7 , height: 8
+reall surface: 412 , reall volume: 560
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 10 , width: 7 , height: 9
+reall surface: 446 , reall volume: 630
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 10 , width: 7 , height: 10
+reall surface: 480 , reall volume: 700
+Has a surface area of: 720.00
+Has Volume of: 1296.00
+ 
+length: 10 , width: 8 , height: 1
+reall surface: 196 , reall volume: 80
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 8 , height: 2
+reall surface: 232 , reall volume: 160
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 8 , height: 3
+reall surface: 268 , reall volume: 240
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 8 , height: 4
+reall surface: 304 , reall volume: 320
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 8 , height: 5
+reall surface: 340 , reall volume: 400
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 8 , height: 6
+reall surface: 376 , reall volume: 480
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 8 , height: 7
+reall surface: 412 , reall volume: 560
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 10 , width: 8 , height: 8
+reall surface: 448 , reall volume: 640
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 10 , width: 8 , height: 9
+reall surface: 484 , reall volume: 720
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 10 , width: 8 , height: 10
+reall surface: 520 , reall volume: 800
+Has a surface area of: 720.00
+Has Volume of: 1296.00
+ 
+length: 10 , width: 9 , height: 1
+reall surface: 218 , reall volume: 90
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 9 , height: 2
+reall surface: 256 , reall volume: 180
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 9 , height: 3
+reall surface: 294 , reall volume: 270
+Has a surface area of: 342.00
+Has Volume of: 324.00
+ 
+length: 10 , width: 9 , height: 4
+reall surface: 332 , reall volume: 360
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 9 , height: 5
+reall surface: 370 , reall volume: 450
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 9 , height: 6
+reall surface: 408 , reall volume: 540
+Has a surface area of: 468.00
+Has Volume of: 648.00
+ 
+length: 10 , width: 9 , height: 7
+reall surface: 446 , reall volume: 630
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 10 , width: 9 , height: 8
+reall surface: 484 , reall volume: 720
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 10 , width: 9 , height: 9
+reall surface: 522 , reall volume: 810
+Has a surface area of: 594.00
+Has Volume of: 972.00
+ 
+length: 10 , width: 9 , height: 10
+reall surface: 560 , reall volume: 900
+Has a surface area of: 720.00
+Has Volume of: 1296.00
+ 
+length: 10 , width: 10 , height: 1
+reall surface: 240 , reall volume: 100
+Has a surface area of: 432.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 10 , height: 2
+reall surface: 280 , reall volume: 200
+Has a surface area of: 432.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 10 , height: 3
+reall surface: 320 , reall volume: 300
+Has a surface area of: 432.00
+Has Volume of: 432.00
+ 
+length: 10 , width: 10 , height: 4
+reall surface: 360 , reall volume: 400
+Has a surface area of: 576.00
+Has Volume of: 864.00
+ 
+length: 10 , width: 10 , height: 5
+reall surface: 400 , reall volume: 500
+Has a surface area of: 576.00
+Has Volume of: 864.00
+ 
+length: 10 , width: 10 , height: 6
+reall surface: 440 , reall volume: 600
+Has a surface area of: 576.00
+Has Volume of: 864.00
+ 
+length: 10 , width: 10 , height: 7
+reall surface: 480 , reall volume: 700
+Has a surface area of: 720.00
+Has Volume of: 1296.00
+ 
+length: 10 , width: 10 , height: 8
+reall surface: 520 , reall volume: 800
+Has a surface area of: 720.00
+Has Volume of: 1296.00
+ 
+length: 10 , width: 10 , height: 9
+reall surface: 560 , reall volume: 900
+Has a surface area of: 720.00
+Has Volume of: 1296.00
+ 
+length: 10 , width: 10 , height: 10
+reall surface: 600 , reall volume: 1000
+Has a surface area of: 864.00
+Has Volume of: 1728.00
+ 
